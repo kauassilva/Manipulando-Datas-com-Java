@@ -2,7 +2,7 @@
 
 ## Constructors
 
-```bash
+```java
 Date();
 
 Date(long date);
@@ -28,7 +28,7 @@ Briefly, it shows the current date when it runs.
 
 #### Code:
 
-```
+```java
 import java.util.Date;
 
 public class Exemplo1 {
@@ -42,7 +42,7 @@ public class Exemplo1 {
 
 #### Output:
 
-```
+```bash
 Sun Aug 21 18:01:13 BRT 2022
 ```
 
