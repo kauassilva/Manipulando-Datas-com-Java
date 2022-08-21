@@ -7,16 +7,16 @@ Date();
 
 Date(long date);
 
-// @Deprecated
+@Deprecated
 Date(int year, int month, int date);
 
-// @Deprecated
+@Deprecated
 Date(int year, int month, int date, int hrs, int min);
 
-// @Deprecated
+@Deprecated
 Date(int year, int month, int date, int hrs, int min, int sec);
 
-// @Deprecated
+@Deprecated
 Date(String s);
 ```
 
@@ -28,8 +28,22 @@ Briefly, it shows the current date when it runs.
 
 #### Code:
 
-![exemplo1 code image](https://github.com/kauassilva/Manipulating-Dates-with-Java/blob/main/Manipulating-Dates-with-Java/src/javaDate/images/exemplo1Code.png)
+```
+import java.util.Date;
+
+public class Exemplo1 {
+    public static void main(String[] args) {
+        Date dataAtual = new Date();
+        
+        System.out.println(dataAtual); // Sun Aug 21 18:01:13 BRT 2022 
+    }
+}
+```
 
 #### Output:
 
-![exemplo1 output image](https://github.com/kauassilva/Manipulating-Dates-with-Java/blob/main/Manipulating-Dates-with-Java/src/javaDate/images/exemplo1Output.png)
+```
+Sun Aug 21 18:01:13 BRT 2022
+```
+
+
