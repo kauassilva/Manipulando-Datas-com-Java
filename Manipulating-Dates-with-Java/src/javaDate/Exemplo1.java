@@ -8,6 +8,6 @@ public class Exemplo1 {
         
         System.out.println(dataAtual);
         
-        // Output: Sun Aug 21 15:30:26 BRT 2022
+        // Output: Sun Aug 21 16:11:28 BRT 2022
     }
 }
