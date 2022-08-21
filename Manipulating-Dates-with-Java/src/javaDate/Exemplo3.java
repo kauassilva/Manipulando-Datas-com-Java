@@ -14,7 +14,10 @@ public class Exemplo3 {
         System.out.println(data1); // Sun Sep 23 04:09:11 BRT 2012
         System.out.println(data2); // Mon Sep 24 21:04:16 BRT 2012
         
-        boolean isAfter = data1.after(data2); 
+        // Verifica se a data1 é posterior a data2
+        boolean isAfter = data1.after(data2);
+        
+        // Verifica se a data1 é anterior a data2
         boolean isBefore = data1.before(data2); 
         
         System.out.println();

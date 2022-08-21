@@ -9,13 +9,15 @@ import java.util.Date;
 
 public class Exemplo5 {
     public static void main(String[] args) {
-        Date dataInicial = new Date(1548531456975L);
+        Date dataInicial = new Date(1661120251853L);
         
-        System.out.println(dataInicial); // Sat Jan 26 17:37:36 BRST 2019
+        System.out.println(dataInicial); // Sun Aug 21 19:17:31 BRT 2022
         
         System.out.println();
         
+        // 
         Instant instant = dataInicial.toInstant();
-        System.out.println(instant); // 2019-01-26T19:37:36.975Z
+        
+        System.out.println(instant); // 2022-08-21T22:17:31.853Z
     }
 }
