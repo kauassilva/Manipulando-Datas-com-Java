@@ -163,3 +163,11 @@ ter. ago. 23 20:22:29 BRT 2022
 08:22:29 PM
 20:22:29
 ```
+
+
+<br/>
+
+## Referências
+
+* https://docs.oracle.com/javase/8/docs/api/java/util/Calendar.html
+* https://www.javatpoint.com/java-util-calendar
