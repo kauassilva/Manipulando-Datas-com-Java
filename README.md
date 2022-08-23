@@ -6,4 +6,4 @@ Para mais informações: https://docs.oracle.com/javase/8/docs/api/java/util/Dat
 
 ## Classes
 
-* [Classe Date](https://github.com/kauassilva/Manipulating-Dates-with-Java/tree/main/Manipulating-Dates-with-Java/src/javaDate)
+* [Classe Date](https://github.com/kauassilva/Manipulando-Datas-com-Java/tree/main/Manipulando-Datas-com-Java/src/javaDate)
