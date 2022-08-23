@@ -45,7 +45,7 @@ public class Exemplo1 {
 
 #### Saída:
 
-```bash
+```
 Sun Aug 21 18:01:13 BRT 2022
 ```
 
@@ -78,7 +78,7 @@ public class Exemplo2 {
 
 #### Saída:
 
-```bash
+```
 1661117319028
 Sun Aug 21 18:28:39 BRT 2022
 ```
@@ -137,7 +137,7 @@ public class Exemplo3 {
 
 #### Saída:
 
-```bash
+```
 Sun Sep 23 04:09:11 BRT 2012
 Mon Sep 24 21:04:16 BRT 2012
 
@@ -196,7 +196,7 @@ public class Exemplo4 {
 
 #### Saída:
 
-```bash
+```
 true
 false
 
@@ -236,7 +236,7 @@ public class Exemplo5 {
 
 #### Saída:
 
-```bash
+```
 Sun Aug 21 19:17:31 BRT 2022
 
 2022-08-21T22:17:31.853Z
