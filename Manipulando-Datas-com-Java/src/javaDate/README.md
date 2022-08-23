@@ -241,3 +241,13 @@ Sun Aug 21 19:17:31 BRT 2022
 
 2022-08-21T22:17:31.853Z
 ```
+
+
+<br/>
+
+## Referências
+
+* https://docs.oracle.com/javase/8/docs/api/java/util/Date.html
+* https://docs.oracle.com/javase/8/docs/api/java/lang/System.html#currentTimeMillis--
+* https://docs.oracle.com/javase/8/docs/api/java/time/Instant.html
+* https://www.javatpoint.com/java-util-date
