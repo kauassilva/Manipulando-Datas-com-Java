@@ -7,6 +7,10 @@ Guia básico de como manipular Datas em Java
 
 * [Classe Date](https://github.com/kauassilva/Manipulando-Datas-com-Java/tree/main/Manipulando-Datas-com-Java/src/javaDate)
 * [Classe Calendar](https://github.com/kauassilva/Manipulando-Datas-com-Java/tree/main/Manipulando-Datas-com-Java/src/javaCalendar)
+* [Classe DateFormat](https://github.com/kauassilva/Manipulando-Datas-com-Java/tree/main/Manipulando-Datas-com-Java/src/javaDateFormat)
+* [Classe LocalDate](https://github.com/kauassilva/Manipulando-Datas-com-Java/tree/main/Manipulando-Datas-com-Java/src/javaLocalDate)
+* [Classe LocalTime](https://github.com/kauassilva/Manipulando-Datas-com-Java/tree/main/Manipulando-Datas-com-Java/src/javaLocalTime)
+* [Classe LocalDateTime](https://github.com/kauassilva/Manipulando-Datas-com-Java/tree/main/Manipulando-Datas-com-Java/src/javaLocalDateTime)
 
 
 ## Todas as referências
