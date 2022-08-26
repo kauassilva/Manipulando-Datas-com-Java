@@ -59,4 +59,4 @@ public class Exemplo12 {
 
 ## Referência
 
-https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html
+* https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html
