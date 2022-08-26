@@ -23,3 +23,8 @@ Este repositório é baseado nas aulas do professor Marco Ollivier, do curso de 
 * https://www.javatpoint.com/java-util-date
 * https://docs.oracle.com/javase/8/docs/api/java/util/Calendar.html
 * https://www.javatpoint.com/java-util-calendar
+* https://docs.oracle.com/javase/8/docs/api/java/text/DateFormat.html
+* https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+* https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html
+* https://docs.oracle.com/javase/8/docs/api/java/time/LocalTime.html
+* https://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html
