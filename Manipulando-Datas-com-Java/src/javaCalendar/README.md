@@ -19,7 +19,7 @@ O método .getInstance() é implementada para obter o instante no momento de exe
 ```java
 import java.util.Calendar;
 
-public class Exemplo1 {
+public class Exemplo6 {
 
     public static void main(String[] args) {
         Calendar dataAtual = Calendar.getInstance();
@@ -83,7 +83,7 @@ O método .add(x, y) é implementado para manipular datas, adicionando ou subtra
 ```java
 import java.util.Calendar;
 
-public class Exemplo2 {
+public class Exemplo7 {
     public static void main(String[] args) {
         Calendar dataAtual = Calendar.getInstance();
         
@@ -131,7 +131,7 @@ Caso queira exibir uma data ou um horário de forma mais 'amigável', aqui vai a
 ```java
 import java.util.Calendar;
 
-public class Exemplo3 {
+public class Exemplo8 {
     public static void main(String[] args) {
         Calendar dataAtual = Calendar.getInstance();
         
