@@ -6,7 +6,7 @@ package javaCalendar;
 
 import java.util.Calendar;
 
-public class Exemplo2 {
+public class Exemplo7 {
     public static void main(String[] args) {
         Calendar dataAtual = Calendar.getInstance();
         

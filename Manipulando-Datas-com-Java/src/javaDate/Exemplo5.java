@@ -15,7 +15,6 @@ public class Exemplo5 {
         
         System.out.println();
         
-        // 
         Instant instant = dataInicial.toInstant();
         
         System.out.println(instant); // 2022-08-21T22:17:31.853Z
