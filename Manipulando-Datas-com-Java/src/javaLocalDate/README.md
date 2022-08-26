@@ -1,6 +1,6 @@
 # Classe LocalDate
 
-LocalDate é uma classe de data e hora imutável que representa uma data, geralmente vista como ano-mês-dia (yyyy-MM-dd).
+LocalDate é uma classe de data imutável que representa uma data, geralmente vista como ano-mês-dia (yyyy-MM-dd).
 
 Vamos ver um exemplo simples de como instanciar e exibir a data atual.
 
