@@ -1,6 +1,8 @@
 # Manipulando Datas com Java
 
-Guia básico de como manipular Datas em Java
+Guia básico de como manipular Datas em Java.
+
+Este repositório é baseado nas aulas do professor Marco Ollivier, do curso de Desenvolvimento básico em Java, disponível na plataforma da [Digital Innovation One](https://www.dio.me/).
 
 
 ## Classes
