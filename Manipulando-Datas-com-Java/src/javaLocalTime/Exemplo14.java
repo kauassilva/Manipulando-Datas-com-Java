@@ -12,11 +12,12 @@ public class Exemplo14 {
         LocalTime horaAtual = LocalTime.now();
         
         System.out.println(horaAtual);
-        // 15:20:33.041283900
+        // 16:35:52.175291400
         
-        LocalTime daquiUmaHora = horaAtual.plusHours(1);
+        LocalTime passado = horaAtual.minusHours(1);
+        LocalTime futuro = horaAtual.plusHours(1);      
         
-        System.out.println(daquiUmaHora);
-        // 16:20:33.041283900
+        System.out.println(passado); // 15:35:52.175291400
+        System.out.println(futuro); // 17:35:52.175291400          
     }
 }
